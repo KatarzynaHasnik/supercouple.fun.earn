@@ -39,6 +39,6 @@ Advanced features (not included here):
 - token incentives system
 - sponsors, sponsor a bounty, become a sponsor (e.g. Solana, Web3 companies & organisations, other businesses (hospitality, tourism, fashion brands, etc.)
 
-Created By: Built by me with AI assistance. I am not a developer, I'm a product designer. 
+Created By: Built by me with AI assistance. I am not a developer, I'm a product designer (CX/UX/UI/GTM/BD etc.). 
 
 Vision: A social + coordination layer for crypto-native users who value trust proven through action.
