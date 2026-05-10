@@ -1,11 +1,11 @@
 # supercouple.fun
 
 ## Overview
-supercouple.fun is a Proof of Connection - Proof of Vibe system built on Solana that replaces traditional profiles and swiping with action-based trust.
+supercouple.fun is a Proof of Connection - Proof of Vibe social system built on Solana that replaces traditional profiles and swiping with action-based trust.
 
 Instead of chats and likes, users interact through structured “bounties” where they commit, collaborate, and complete tasks with real stakes.
 
-Core Idea: Trust is not declared — it is proven through action.
+Core Idea: Trust is not declared; it is proven through action.
 
 Users:
 - create bounties
@@ -37,6 +37,7 @@ Advanced features (not included here):
 - full UX flows
 - extended verification layers
 - token incentives system
+- sponsors, sponsor a bounty, become a sponsor (e.g. Solana, Web3 companies & organisations, other businesses (hospitality, tourism, fashion brands, etc.)
 
 Created By: Built by me with AI assistance. I am not a developer, I'm a product designer. 
 
