@@ -1,12 +1,11 @@
-# supercouple.fun.earn
+# supercouple.fun
 
 ## Overview
-supercouple.fun.earn is a Proof of Connection system built on Solana that replaces traditional profiles and swiping with action-based trust.
+supercouple.fun is a Proof of Connection - Proof of Vibe system built on Solana that replaces traditional profiles and swiping with action-based trust.
 
 Instead of chats and likes, users interact through structured “bounties” where they commit, collaborate, and complete tasks with real stakes.
 
-## Core Idea
-Trust is not declared — it is proven through action.
+Core Idea: Trust is not declared — it is proven through action.
 
 Users:
 - create bounties
@@ -15,20 +14,19 @@ Users:
 - complete missions
 - build reputation on-chain
 
-## Key Innovation
+Key Innovation
 - P2P → H2H → Stake2Stake interactions
 - Behaviour-based reputation system
 - On-chain commitment (Solana smart contracts)
 - Anti-fake, anti-noise interaction model
 
-## Tech Stack
+Tech Stack
 - Solana blockchain (Anchor framework)
 - Rust smart contracts
 - React / Next.js frontend (components)
 - Wallet-based identity
 
-## Scope of This Repo
-This is an MVP prototype demonstrating:
+Scope of This Repo - This is an MVP prototype demonstrating:
 - bounty creation
 - acceptance flow
 - completion logic
@@ -40,8 +38,6 @@ Advanced features (not included here):
 - extended verification layers
 - token incentives system
 
-## Created By
-Built by me with AI assistance. I am not a developer.
+Created By: Built by me with AI assistance. I am not a developer, I'm a product designer. 
 
-## Vision
-A social + coordination layer for crypto-native users who value trust proven through action.
+Vision: A social + coordination layer for crypto-native users who value trust proven through action.
